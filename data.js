@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": 0.018969106700193805,
           "pitch": 0.12696756656799835,
           "title": "북쪽하늘",
-          "text": "http://www.naver.com"
+          "text": "북쪽하늘에서는 별이 반시계방향의로 회전합니다"
         }
       ]
     },
@@ -79,7 +79,7 @@ var APP_DATA = {
   "name": "제대로 해보자",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": true
   }
